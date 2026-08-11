@@ -1,0 +1,6 @@
+{
+  "name": "Bella Pizza - Pedidos Online & Supabase",
+  "description": "Aplicativo de solicitação e entrega de pizzas com suporte ao Supabase, monte sua pizza, carrinho, acompanhamento em tempo real e painel do restaurante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
